@@ -1,0 +1,91 @@
+body {
+    padding: 0;
+    font-size: 23px;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+.half-width {
+    width: 35%;
+    display: inline-block;
+
+
+}
+
+.figure {
+    height: 550px;
+    width: 500px;
+    margin-left: 100px;
+    border: none;
+
+}
+
+.section {
+    margin-left: 150px;
+    margin-top: 10px;
+
+
+}
+
+.left-border {
+    border-left: 7px salmon solid;
+    padding: 10px;
+    font-size: 60px;
+    border
+}
+
+.yellow-color {
+    color: #ffa700;
+}
+
+.button {
+    background-color: #fa7272;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+}
+
+.my-missions {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.third-section {
+    width: 25%;
+    display: inline-block;
+    margin-right: 0.5%;
+    margin-left: 0.5%;
+}
+
+#first-third {
+    background-color: rgba(11, 245, 167, 0.111);
+    margin-left: 10%;
+    border-radius: 25px;
+    padding: 3px 10px;
+}
+
+#second-third {
+    background-color: rgba(245, 150, 8, 0.111);
+    border-radius: 25px;
+    padding: 10px;
+    mar
+}
+
+#last {
+    background-color: rgba(234, 255, 0, 0.111);
+    border-radius: 25px;
+    padding: 10px;
+}
+
+.mission-icons {
+    height: 200px;
+    width: 200px;
+}
